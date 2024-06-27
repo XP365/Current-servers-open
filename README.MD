@@ -1,5 +1,5 @@
-# BOTW mutiplayer server guide
-Current open servers and their passwords, if one is full, try another
+# BOTW Mutiplayer Server Guide
+### Current open servers and their passwords, if one is full, try another
 
 
 Server Name: BOTWMULT2
