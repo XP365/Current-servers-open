@@ -28,7 +28,7 @@ Password: a
 # Chat Tutoriel
 In order to chat, use the chat on the server BOTWMULT2 on hamachi by right clicking on it
 
-#Current Server Status
+# Current Server Status
 🔴Offline: 
 Current reason: Server not released yet. will be released sometime next month
 *keep in mind if the server crashes or other issues occor this may not be acurate
