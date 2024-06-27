@@ -1,3 +1,4 @@
+# BOTW mutiplayer server guide
 Current open servers and their passwords, if one is full, try another
 
 
