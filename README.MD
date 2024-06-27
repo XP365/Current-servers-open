@@ -1,6 +1,8 @@
-# BOTW Mutiplayer Server Guide                          PLEASE DELETE THE SERVER ON HAMACHI WHEN YOU ARE DONE, THIS ALLOWS OTHERS TO JOIN
-### Current open servers and their passwords, if one is full, try another 
+# BOTW Mutiplayer Server Guide
+#PLEASE DELETE THE SERVER ON HAMACHI WHEN YOU ARE DONE, THIS ALLOWS OTHERS TO JOIN
 
+### Current open servers and their passwords, if one is full, try another:
+╬
 Server Name: BOTWMULT2
 
 Password: a
