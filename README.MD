@@ -1,6 +1,6 @@
 # BOTW Mutiplayer Server Guide
 ### Current open servers and their passwords, if one is full, try another
-
+# PLEASE DELETE THE SERVER ON HAMACHI WHEN YOU ARE DONE, THIS ALLOWS OTHERS TO JOIN
 
 Server Name: BOTWMULT2
 
@@ -23,3 +23,6 @@ Password: a
 Server Name: BOTWMULT5
 
 Password: a
+
+# Chat info
+In order to chat, use the chat on the server BOTWMULT2 on hamachi by right clicking on it
