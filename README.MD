@@ -25,6 +25,9 @@ Password: a
 
 Password: a
 
+# Server IP
+Current server IP: 25.0.187.49
+
 # Chat Tutoriel
 In order to chat, use the chat on the server BOTWMULT2 on hamachi by right clicking on it
 
