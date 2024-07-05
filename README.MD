@@ -32,6 +32,10 @@ Current server IP: 25.0.187.49
 In order to chat, use the chat on the server BOTWMULT2 on hamachi by right clicking on it
 
 # Current Server Status
-⛔Offline: 
+✅Offline: 
 Current reason: SERVER OPENS TOMORROW!
 *keep in mind if the server crashes or other issues occor this may not be acurate
+
+
+
+Ignore this ⛔
