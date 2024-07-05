@@ -35,7 +35,3 @@ In order to chat, use the chat on the server BOTWMULT2 on hamachi by right click
 ✅Offline: 
 Current reason: SERVER OPENS TOMORROW!
 *keep in mind if the server crashes or other issues occor this may not be acurate
-
-
-
-Ignore this ⛔
