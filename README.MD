@@ -1,6 +1,8 @@
 # BOTW Mutiplayer Server Guide
 #PLEASE DELETE THE SERVER ON HAMACHI WHEN YOU ARE DONE, THIS ALLOWS OTHERS TO JOIN
 
+## SERVER IP: 25.0.187.49 ##
+
 ### Current open Hamachi servers and their passwords, if one is full, try another. PLEASE ONLY CONNECT TO 1:
 
 🟢Server Name: BOTWMULT2
